@@ -1,0 +1,7 @@
+numpy
+pulp
+matplotlib
+math
+random
+collections
+pytest
